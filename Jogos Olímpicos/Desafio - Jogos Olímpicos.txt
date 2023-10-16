@@ -1,0 +1,9 @@
+Quantos atletas ja competiram?
+Qual a idade média desse atletas?
+Ranking de medalhas de ouro, prata e bronze por país
+Evolução de medalhas por país
+Quais esportes trouxeram mais medalhas para o Brasil?
+Quais países enviam mais atletas para as olimpíadas?
+Quais atletas participaram mais vezes de eventos?
+Eficiencia dos atletas (quantidade de medalhas / participações)
+Participação de atletas de sexo masculino e feminino ao longo do tempo
